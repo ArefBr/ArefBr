@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working in deep learning field<br>I'm learning Pytorch
+I am a deep learning enthusiast with a focus on NLP. I have experience working with diffusion models, and I am currently exploring the use cases of LLMs in the industry. I am proficient in PyTorch and enjoy building neural networks that can solve complex problems.
 
 
 ## 🌐 Socials:
