@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a deep learning enthusiast with a focus on NLP.</br>
+🔭 I am a deep learning enthusiast with a focus on Computer Vision.</br>
 🤝 I have experience working with diffusion models, and I am currently exploring the use cases of LLMs in the industry.</br>
 🌱  I am proficient in PyTorch and enjoy building neural networks that can solve complex problems.</br>
 
